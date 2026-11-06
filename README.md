@@ -2,7 +2,7 @@
 
 Effective date: 2026-10-01
 
-Runewall ("the game") is a mobile game published by SlayerBlade (BitzPro Dev) on Google Play. This policy explains
+Runewall ("the game") is a mobile game published on Google Play by HEHKU, the games studio of SlayerBlade. This policy explains
 what information the game and the services built into it collect, why, and the choices you have.
 
 Runewall is intended for players aged 13 and over. We do not knowingly collect personal information from children
@@ -67,4 +67,4 @@ update notes.
 
 ## Contact
 
-SlayerBlade (BitzPro Dev) — [arnavmaurya.am@gmail.com](mailto:arnavmaurya.am@gmail.com)
+HEHKU (SlayerBlade) — [support@slayerblade.in](mailto:support@slayerblade.in)
